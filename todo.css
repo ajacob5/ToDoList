@@ -1,0 +1,46 @@
+#content {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-left: 200px;
+}
+
+table {
+
+  width: 35%;
+  border: 2px solid white;
+}
+
+button {
+	width: 100px;
+}
+
+.taskField {
+	text-align: left;
+}
+
+#taskInput {
+	width: 99%;
+}
+
+.grayRow {
+	background-color: #DEE0E2;
+}
+
+.taskCheckbox {
+	width: 20px;
+	text-align: center;
+}
+
+.taskText {
+	text-align: left;
+}
+
+.rightColumn {
+	text-align: right;
+	width: 100px;
+}
+
+#visualization {
+	width: 45%;
+}
+
+button {border-radius: 5px;}
